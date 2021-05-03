@@ -90,7 +90,7 @@ public enum RenderingEngine {
 	private boolean renderingTattoosRight = false;
 	
 	public static final int INVENTORY_PAGES = 5;
-	public static final int ITEMS_PER_PAGE = 24;
+	public static final int ITEMS_PER_PAGE = 81;
 	
 	public static Colour[] orgasmColours = new Colour[]{
 			PresetColour.AROUSAL_STAGE_ZERO,
